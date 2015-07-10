@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="NanoProjectButtonGreen" parent="android:style/Widget.Button">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">#05a25f</item>
+    </style>
+
+    <style name="NanoProjectButtonBlue" parent="android:style/Widget.Button">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">#166dee</item>
+    </style>
+
+    <style name="NanoProjectButtonRed" parent="android:style/Widget.Button">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">#d9442f</item>
+    </style>
+
+    <style name="NanoProjectButtonYellow" parent="android:style/Widget.Button">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:background">#ffb901</item>
+    </style>
+
+</resources>

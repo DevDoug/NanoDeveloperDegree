@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NanoDeveloperHub</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nano_developer_hub_title">Nano Developer Hub</string>
+    <string name="button_toast" formatted="false">This button will launch my %s</string>
+
+    <string-array name="project_names">
+        <item>Spotify Streamer</item>
+        <item>Scores App</item>
+        <item>Library App</item>
+        <item>Build It Bigger</item>
+        <item>XYZ Reader</item>
+        <item>Capstone: my own app</item>
+    </string-array>
+</resources>
